@@ -1,8 +1,8 @@
 # Unity-Color-Bump-3D
 Clone of Color Bump 3D game
 
-
-- Slow Motion effect
+- To controll the ball, click and hold mouse left button or on mobile just touch and pull the anywhere on the scene screen
+- Slow Motion effect when collision with yellow obstacles.
 - Start and finish line
 - Basic cool particle system
 - Short gameplay
