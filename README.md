@@ -1,6 +1,7 @@
 # Unity-Color-Bump-3D
 ### Clone of Color Bump 3D game
-https://apps.apple.com/us/app/color-bump-3d/id1445450568
+[Check out on AppStore here!](https://apps.apple.com/us/app/color-bump-3d/id1445450568)
+
 - To controll the ball, click and hold mouse left button or on mobile just touch and pull the anywhere on the scene screen
 - Slow Motion effect when collision with yellow obstacles.
 - Start and finish line
